@@ -20,7 +20,7 @@ $stylesheet = "index";
             <h3>Welcome</h3>
         </div>
         <h3>I'm James - Web developer, designer, writer, and a future nurse from Ohio.</h3>
-        <h4><a href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a> &middot; <a style='font-size: 1em;' href="https://blog.jameslatten.com">My Blog</a></h4>
+        <h4><a href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a></h4>
     </div>
 </div>
 
