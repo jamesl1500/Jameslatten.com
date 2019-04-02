@@ -20,6 +20,7 @@ $stylesheet = "index";
             <h3>Welcome</h3>
         </div>
         <h3>I'm James - Web developer, designer, writer, and a future nurse from Ohio.</h3>
+        <h4><a href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a></h4>
     </div>
 </div>
 
@@ -31,7 +32,7 @@ $stylesheet = "index";
     <div class="innerStage">
         <h3>Theres not much to say about me, I'm just some guy that likes to create things. I've always had a passion for programming, and now I have an even bigger passion for patient care. I was born <b>February 13th, 1999</b>. Since then I've been riding this rollarcoaster of a life all the way to where I am now.</h3>
         <h3 class="right">Oh, I love to read books, I love listening to indie music and I love to just explore different areas and different things. Manga and Poetry are my favorite book genres by the way!</h3><br />
-        <h3>I also run a small web development studio called <a href="https://sitelyftstudios.com"">Sitelyft Studios, LLC</a>. Well yeah, thats just a few things. Scroll down more and get to know me a little bit better...</h3>
+        <h3>I also run a small web development studio called <a href="https://sitelyftstudios.com"">Sitelyft Studios, LLC</a>. I also go by <a href="blog.jameslatten.com">Jaye Aesthetic</a>. Well yeah, thats just a few things. Scroll down more and get to know me a little bit better...</h3>
     </div>
 </div>
 
