@@ -16,6 +16,9 @@ $stylesheet = "index";
         <div class="mobile">
             <h3>JL</h3>
         </div>
+        <div class="desktop">
+            <h3>Welcome</h3>
+        </div>
         <h3>I'm James - Web developer, designer, writer, and a future nurse from Ohio.</h3>
     </div>
 </div>
