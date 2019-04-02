@@ -95,7 +95,7 @@ $stylesheet = "index";
                 <span>A unique invoicing platform for small businesses!<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
-                <h4>Personal Blog</h4>
+                <h4>Jaye Aesthetic</h4>
                 <span>A place where my voice can be heard<br /><span>PHP, JS, HTML, WordPress</span></span>
             </div>
         </div>
