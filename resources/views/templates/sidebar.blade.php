@@ -17,6 +17,6 @@
         </div>
     </div>
     <div class="footerBottom">
-        <span>Copyright &copy; 20<?php echo date('y'); ?></span>
+        <span>Courtesy of the <a style='text-decoration: underline;' href="https://sitelyftstudios.com">mob</a></span>
     </div>
 </div>
