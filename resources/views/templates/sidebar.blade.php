@@ -16,7 +16,7 @@
             </ul>
         </div>
     </div>
-    <div class="footerBottom">
-        <span style='text-align: center;'>Courtesy of the <a style='text-decoration: underline;color: white;' href="https://sitelyftstudios.com">mob</a></span>
+    <div class="footerBottom" style="width: 100%;">
+        <span style='text-align: center;padding: 0px;'>Courtesy of the <a style='text-decoration: underline;color: white;' href="https://sitelyftstudios.com">mob</a></span>
     </div>
 </div>
