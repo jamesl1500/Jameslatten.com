@@ -124,11 +124,15 @@ $stylesheet = "index";
         <div class="row">
             <div class="leftTable table col-lg-6">
                 <h4>ECOT</h4>
-                <span>I've been homeschooled all of my life. Here I spent all of my high school years and was provided the oppurtunity to go to college during my 12th year.<br /><span>Graduation: 2017</span></span>
+                <span>I've been homeschooled all of my life. Here I spent all of my high school years and was provided the oppurtunity to go to college during my 12th year.<br /><span>Graduated: 2017</span></span>
             </div>
             <div class="rightTable table col-lg-6">
                 <h4>Lorain County Community College</h4>
-                <span>Currently I'm pursuing my associates degree in nursing. I plan on entering the nursing program here once all of my prerequisites are completed.<br /><span>Graduaiton: 2021</span></span>
+                <span>Currently I'm pursuing my associates degree in nursing. I plan on entering the nursing program here once all of my prerequisites are completed.<br /><span>Graduaiton: 2022</span></span>
+            </div>
+            <div class="rightTable table col-lg-6">
+                <h4>Cleveland State University</h4>
+                <span>Currently pursuing my second degree in Psychology<br /><span>Graduaiton: 2022</span></span>
             </div>
         </div>
     </div>
