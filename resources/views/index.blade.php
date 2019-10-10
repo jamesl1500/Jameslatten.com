@@ -96,7 +96,7 @@ $stylesheet = "index";
             </div>
             <div class="rightTable table col-lg-4">
                 <h4><a href="https://mutterly.com/">Mutterly</a></h4>
-                <span>Share your thoughts and fears anonymously<br /><span>PHP, JS, HTML, WordPress</span></span>
+                <span>Share your thoughts and fears anonymously<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
                 <h4><a href="https://blog.jameslatten.com/">Jaye Aesthetic</a></h4>
@@ -104,7 +104,7 @@ $stylesheet = "index";
             </div>
             <div class="rightTable table col-lg-4">
                 <h4><a href="https://sitelyftstudios.com/">Sitelyft Studios, LLC</a></h4>
-                <span>My web development agency based in Ohio<br /><span>PHP, JS, HTML, WordPress</span></span>
+                <span>My web development agency based in Ohio<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
                 <h4>Jarvis Invoicing (Coming Soon)</h4>
