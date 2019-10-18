@@ -102,6 +102,10 @@ $stylesheet = "index";
                 <h4><a href="https://blog.jameslatten.com/">Jaye Aesthetic</a></h4>
                 <span>A place where my voice can be heard<br /><span>PHP, JS, HTML, WordPress</span></span>
             </div>
+            <div class="leftTable table col-lg-4">
+                <h4><a href="https://larryalesley.com/">Larry A Lesley</a></h4>
+                <span>A portfolio website created for a special client<br /><span>PHP, JS, HTML, Laravel</span></span>
+            </div>
             <div class="rightTable table col-lg-4">
                 <h4><a href="https://sitelyftstudios.com/">Sitelyft Studios, LLC</a></h4>
                 <span>My web development agency based in Ohio<br /><span>PHP, JS, HTML, Laravel</span></span>
