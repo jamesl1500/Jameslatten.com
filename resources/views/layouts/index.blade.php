@@ -33,9 +33,6 @@
     </head>
     <body>
         <div class="website container-fluid">
-            <!-- Header -->
-            @include('templates.header')
-
             <!-- Cont -->
             <div class="innerWebsite row">
                 <div class="sidebarParent" style=''>

@@ -18,6 +18,8 @@
             width: 200px;
             height: 100%;
 
+            display: none;
+
             float: left;
 
             position: fixed;
@@ -93,7 +95,7 @@
         // Website Content
         .websiteParent{
             width: 100%;
-            margin-left: 200px;
+            //margin-left: 200px;
 
             @media screen and (max-width: 500px){
                 margin-left: 0px;

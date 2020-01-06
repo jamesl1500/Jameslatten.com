@@ -6,13 +6,17 @@ $stylesheet = "index";
 @section('content')
 <div class="banner">
     <div class="cover">
-
+        <!-- Header -->
+        @include('templates.header')
     </div>
 </div>
 
 <!-- Initial -->
 <div class="stage stageOne" id="welcome">
     <div class="innerStage">
+        <div class="profileImage">
+            <img src="https://scontent-ort2-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/71715869_445344759453901_7446227129402506810_n.jpg?_nc_ht=scontent-ort2-2.cdninstagram.com&_nc_cat=101&_nc_ohc=0k1lR6aDbZkAX9cFzis&oh=c2ae650eaad8492fa4fd790568c5e3cc&oe=5EB230EF" />
+        </div>
         <div class="mobile">
             <h3>JL</h3>
         </div>
@@ -30,8 +34,8 @@ $stylesheet = "index";
         <h1>About</h1>    
     </div>    
     <div class="innerStage">
-        <h3>Theres not much to say about me, I'm just some guy that likes to create things. I've always had a passion for programming, and now I have an even bigger passion for patient care. I was born <b>February 13th, 1999</b>. Since then I've been riding this rollarcoaster of a life all the way to where I am now.</h3>
-        <h3 class="right">Oh, I love to read books, I love listening to indie music and I love to just explore different areas and different things. Manga and Poetry are my favorite book genres by the way!</h3><br />
+        <h3>Theres not much to say about me, I'm just some guy that likes to create things. I've always had a passion for programming, and now I have an even bigger passion for patient care. I was born <b>February 13th, 1999</b>. Since then I've been riding this rollarcoaster of a life all the way to where I am now.</h3><br />
+        <h3 class="">Oh, I love to read books, I love listening to indie music and I love to just explore different areas and different things. Manga and Poetry are my favorite book genres by the way!</h3><br />
         <h3>I also run a small web development studio called <a href="https://sitelyftstudios.com"">Sitelyft Studios, LLC</a>. I also go by <a href="blog.jameslatten.com">Jaye Aesthetic</a>. Well yeah, thats just a few things. Scroll down more and get to know me a little bit better...</h3>
     </div>
 </div>
@@ -136,7 +140,7 @@ $stylesheet = "index";
             </div>
             <div class="rightTable table col-lg-6">
                 <h4>Cleveland State University</h4>
-                <span>Currently pursuing my second degree in Psychology<br /><span>Graduaiton: 2022</span></span>
+                <span>Currently pursuing my second degree in Psychology. I chose this major because I'm very fond of the brain and how it operates!<br /><span>Graduaiton: 2022</span></span>
             </div>
         </div>
     </div>

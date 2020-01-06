@@ -4,13 +4,77 @@
     width:100%;
     height: 350px;
 
+    @media screen and (max-width: 600px)
+    {
+        height: 200px;
+                
+    }
+
     background-image: url(https://images.unsplash.com/photo-1490131784822-b4626a8ec96a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80);
     background-size: cover;
 
     background-position: bottom;
 
-    padding: 40px;
-    display: none;
+    //padding: 40px;
+    //display: none;
+
+    .cover{
+        width: 100%;
+        @media screen and (max-width: 600px)
+        {
+            height: 200px;
+                
+        }
+
+        background: rgba(0,0,0,.3);
+    }
+}
+
+.main-header{
+
+    .header-container{
+        padding: 40px;
+
+        .left-header{
+            float: left;
+
+            h3{
+
+                a{
+                    color: white;
+                    font-weight: 400;
+
+                    text-decoration: none;
+                }
+            }
+        }
+
+        .right-header{
+            float: right;
+
+            @media screen and (max-width: 600px)
+            {
+                display: none;
+
+            }
+
+            ul{
+                padding-top: 6px;
+
+                li{
+                    display: inline;
+                    margin-left: 15px;
+
+                    a{
+                        color: white;
+                        font-weight: 400;
+
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
 }
 
 // Stages
@@ -27,6 +91,21 @@
 
     .innerStage{
         padding-top: 30px;
+
+        .profileImage{
+            display: none;
+            padding-bottom: 50px;
+
+            position: relative;
+            top: -200px;
+
+            margin-bottom: -200px;
+
+            img{
+                width: 150px;
+                border-radius: 2px;
+            }
+        }
 
         .mobile{
             padding-bottom: 20px;
