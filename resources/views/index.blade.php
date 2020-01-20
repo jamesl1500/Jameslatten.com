@@ -154,8 +154,8 @@ $stylesheet = "index";
     <div class="innerStage">
         <h3>Wanna work together on something?</h3>
         <div class="contacts">
-            <a href="mailto:james@sitelyftstudios.com?subject=Lets work together">James@sitelyftstudios.com</a>
-            <a href="tel:216-889-7822">216-889-7822</a>
+            <a href="mailto:hello@sitelyftstudios.com?subject=Lets work together">hello@sitelyftstudios.com</a>
+            <a href="tel:1-440-328-8227">1-440-328-8227</a>
         </div>
     </div>
 </div>
