@@ -24,7 +24,7 @@ $stylesheet = "index";
             <h3>Welcome</h3>
         </div>
         <h3>I'm James - Web developer, designer, writer, and a future nurse from Ohio.</h3>
-        <h4><a href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a> <a href="https://medium.com/@jaye.aesthetic"><i class="fab fa-medium"></i></A></h4>
+        <h4><a data-toggle="tooltip" title="Twitter" href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a data-toggle="tooltip" title="Tumblr" href="https://jayeglizzy.tumblr.com/"><i class="fab fa-tumblr"></i></a> <a data-toggle="tooltip" title="Instagram" href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a> <a data-toggle="tooltip" title="Medium" href="https://medium.com/@jaye.aesthetic"><i class="fab fa-medium"></i></A></h4>
     </div>
 </div>
 
@@ -35,7 +35,7 @@ $stylesheet = "index";
     </div>    
     <div class="innerStage">
         <h3>Theres not much to say about me, I'm just some guy that likes to create things. I've always had a passion for programming, and now I have an even bigger passion for patient care. I was born <b>February 13th, 1999</b>. Since then I've been riding this rollarcoaster of a life all the way to where I am now.</h3><br />
-        <h3 class="">Oh, I love to read books, I love listening to indie music and I love to just explore different areas and different things. Manga and Poetry are my favorite book genres by the way!</h3><br />
+        <h3 class="">I'm one of Jehovahs Witnesses and I spend a lot of my time going door to door talking to neighbours about god and his son. Oh, I love to read books, I love listening to indie music and I love to just explore different areas and different things. Manga and Poetry are my favorite book genres by the way! I love photography as well and taking beautiful looking pictures.</h3><br />
         <h3>I also run a small web development studio called <a href="https://sitelyftstudios.com"">Sitelyft Studios, LLC</a>. I also go by <a href="blog.jameslatten.com">Jaye Aesthetic</a>. Well yeah, thats just a few things. Scroll down more and get to know me a little bit better...</h3>
     </div>
 </div>
@@ -48,37 +48,53 @@ $stylesheet = "index";
     <div class="innerStage">
         <h3>I'm talented in some ways:</h3>
         <div class="row">
-            <div class="leftTable table col-lg-6">
-            <h4>Web Development</h4>
-            <ul>
-                <li>PHP</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
-                <li>jQuery</li>
-                <li>SASS</li>
-                <li>Laravel Framework</li>
-                <li>Codeigniter Framework</li>
-                <li>WebSockets</li>
-                <li>LAMP Stacks</li>
-                <li>LEMP Stacks</li>
+            <div class="leftTable table col-lg-4">
+                <h4>Web Development</h4>
+                <ul>
+                    <li>PHP</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>jQuery</li>
+                    <li>SASS</li>
+                    <li>Laravel Framework</li>
+                    <li>Codeigniter Framework</li>
+                    <li>WebSockets</li>
+                    <li>LAMP Stacks</li>
+                    <li>LEMP Stacks</li>
 
-            </ul>
+                </ul>
             </div>
-            <div class="rightTable table col-lg-6">
+            <div class="rightTable table col-lg-4">
                 <h4>Patient Care</h4>
                 <ul>
-                <li>Nurse Assisting</li>
-                <li>BLS Certified</li>
-                <li>Compassion</li>
-                <li>Critical Care</li>
-                <li>EKG Trained</li>
-                <li>Foley Discontinuation</li>
-                <li>Medical Records</li>
-                <li>Charting</li>
-                <li>Organizing</li>
-                <li>Team Player</li>
-                <li>Medical Terminology</li>
+                    <li>Nurse Assisting</li>
+                    <li>BLS Certified</li>
+                    <li>Compassion</li>
+                    <li>Critical Care</li>
+                    <li>EKG Trained</li>
+                    <li>Foley Discontinuation</li>
+                    <li>Medical Records</li>
+                    <li>Charting</li>
+                    <li>Organizing</li>
+                    <li>Team Player</li>
+                    <li>Medical Terminology</li>
+                </ul>
+            </div>
+            <div class="rightTable table col-lg-4">
+                <h4>Creativity & Hobbies</h4>
+                <ul>
+                    <li>Photography</li>
+                    <li>Writing</li>
+                    <li>Web Designing</li>
+                    <li>Social Media</li>
+                    <li>Sketching</li>
+                    <li>Reading</li>
+                    <li>Music</li>
+                    <li>Adventuring</li>
+                    <li>Traveling</li>
+                    <li>Studying</li>
+                    <li>Ministry Work</li>
                 </ul>
             </div>
         </div>
@@ -123,7 +139,7 @@ $stylesheet = "index";
 </div>
 
 <!-- Stage five -->
-<div class="stage stageFifth" id="projects">
+<div class="stage stageFifth" id="education">
         <div class="stageHead">
         <h1>Education</h1>    
     </div>    
@@ -147,21 +163,21 @@ $stylesheet = "index";
 </div>
 
 <!-- Stage six -->
-<div class="stage stageSix" id="projects">
+<div class="stage stageSix" id="contact">
         <div class="stageHead">
         <h1>Contact Me</h1>    
     </div>    
     <div class="innerStage">
         <h3>Wanna work together on something?</h3>
         <div class="contacts">
-            <a href="mailto:hello@sitelyftstudios.com?subject=Lets work together">hello@sitelyftstudios.com</a>
-            <a href="tel:1-440-328-8227">1-440-328-8227</a>
+            <a data-toggle="tooltip" title="Email"  href="mailto:hello@sitelyftstudios.com?subject=Lets work together"><i class="fas fa-envelope"></i> hello@sitelyftstudios.com</a><br />
+            <a data-toggle="tooltip" title="Phone Number" href="tel:1-440-328-8227"><i class="fas fa-phone"></i> 1-440-328-8227</a>
         </div>
     </div>
 </div>
 
 <!-- Stage seven -->
-<div class="stage stageSeven" id="projects">
+<div class="stage stageSeven" id="copyright">
     <div class="innerStage">
         <h3>Copyright &copy; Jameslatten.com</h3>
     </div>

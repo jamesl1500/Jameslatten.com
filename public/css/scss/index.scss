@@ -475,11 +475,20 @@
             padding-top: 15px;
             margin-top: 15px;
 
-            text-align: center;
+            text-align: left;
 
             a{
                 color: #333;
-                text-decoration: underline;
+
+                display: inline-block;
+
+                i{
+                    padding-right: 15px;
+                }
+            }
+
+            a:hover{
+        
             }
         }
     }
