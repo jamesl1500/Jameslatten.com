@@ -119,7 +119,7 @@ $stylesheet = "index";
                 <span>Share your thoughts and fears anonymously<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
-                <h4><a href="https://blog.jameslatten.com/">Jaye Aesthetic</a></h4>
+                <h4><a href="https://jayeaesthetic.com/">Jaye Aesthetic</a></h4>
                 <span>A place where my voice can be heard<br /><span>PHP, JS, HTML, WordPress</span></span>
             </div>
             <div class="leftTable table col-lg-4">
