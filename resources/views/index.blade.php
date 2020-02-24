@@ -170,8 +170,8 @@ $stylesheet = "index";
     <div class="innerStage">
         <h3>Wanna work together on something?</h3>
         <div class="contacts">
-            <a data-toggle="tooltip" title="Email"  href="mailto:hello@jameslatten.com?subject=Lets work together"><i class="fas fa-envelope"></i> hello@sitelyftstudios.com</a><br />
-            <a data-toggle="tooltip" title="Phone Number" href="tel:216-889-7822"><i class="fas fa-phone"></i> 1-440-328-8227</a>
+            <a data-toggle="tooltip" title="Email"  href="mailto:hello@jameslatten.com?subject=Lets work together"><i class="fas fa-envelope"></i> hello@jameslatten.com/a><br />
+            <a data-toggle="tooltip" title="Phone Number" href="tel:216-889-7822"><i class="fas fa-phone"></i> 1-216-889-7822</a>
         </div>
     </div>
 </div>
