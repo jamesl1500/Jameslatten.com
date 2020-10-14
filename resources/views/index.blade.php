@@ -42,7 +42,7 @@ $stylesheet = "index";
     <!-- Top Skills Area -->
     <div class="section about">
         <div class="sectionHead">
-            <h1>Skills</h1>
+            <h1>Skills!</h1>
         </div>
         <div class="innerSection">
 
