@@ -62,8 +62,10 @@ Route::get('/categories/{id}', function($id)
                 $pid = $product['id'];
                 
                 // Get info
-                $payload[] = $product;
-
+                if($product["is_visible"] == true && $product['availability'] == "available")
+                {
+                    $payload[] = $product;
+                }
             }
 
             //print_r($payload);
