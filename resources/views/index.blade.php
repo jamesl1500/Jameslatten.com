@@ -151,12 +151,12 @@ $stylesheet = "index";
                 <span>I've been homeschooled all of my life. Here I spent all of my high school years and was provided the oppurtunity to go to college during my 12th year.<br /><span>Graduated: 2017</span></span>
             </div>
             <div class="rightTable table col-lg-6">
-                <h4>Lorain County Community College</h4>
-                <span>Currently I'm pursuing my associates degree in nursing. I plan on entering the nursing program here once all of my prerequisites are completed.<br /><span>Graduaiton: 2022</span></span>
+                <h4>Cuyahoga Community College</h4>
+                <span>Graduated with an <b>Associates of Arts</b>. It was one of my biggest accomplishments and I'm looking forward to earning my bachlors<br /><span>Graduated: 2021</span></span>
             </div>
             <div class="rightTable table col-lg-6">
                 <h4>Cleveland State University</h4>
-                <span>Currently pursuing my second degree in Psychology. I chose this major because I'm very fond of the brain and how it operates!<br /><span>Graduaiton: 2022</span></span>
+                <span>Currently pursuing my Bachlors of Science degree in Psychology. Afterwards I plan on going to graduate school<br /><span>Graduaiton: 2022</span></span>
             </div>
         </div>
     </div>
