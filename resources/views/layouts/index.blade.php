@@ -32,7 +32,7 @@
         <?php } ?>
     </head>
     <body>
-        <div class="website container-fluid">
+        <div class="website container-fluid" style="padding: 0px;">
             <!-- Cont -->
             <div class="innerWebsite row">
                 <div class="sidebarParent" style=''>
