@@ -152,11 +152,11 @@ $stylesheet = "index";
             </div>
             <div class="rightTable table col-lg-6">
                 <h4>Cuyahoga Community College</h4>
-                <span>Graduated with an <b>Associates of Arts</b>. It was one of my biggest accomplishments and I'm looking forward to earning my bachlors<br /><span>Graduated: 2021</span></span>
+                <span>Graduated with an <b>Associates of Arts</b>. It was one of my biggest accomplishments and I'm looking forward to earning my bachelors<br /><span>Graduated: 2021</span></span>
             </div>
             <div class="rightTable table col-lg-6">
                 <h4>Cleveland State University</h4>
-                <span>Currently pursuing my Bachlors of Science degree in Psychology. Afterwards I plan on going to graduate school<br /><span>Graduaiton: 2022</span></span>
+                <span>Currently pursuing my Bachelors of Science degree in Psychology. Afterwards I plan on going to graduate school<br /><span>Graduaiton: 2022</span></span>
             </div>
         </div>
     </div>
