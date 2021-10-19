@@ -38,7 +38,7 @@
                 <div class="sidebarParent" style=''>
                     @include('templates.sidebar')
                 </div>
-                <div class="websiteParent container" style=''>
+                <div class="websiteParent container-fluid" style=''>
                     @yield('content')
                 </div>
             </div>
