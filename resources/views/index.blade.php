@@ -24,7 +24,7 @@ $stylesheet = "index";
             <h3>Welcome</h3>
         </div>
         <h3>I'm James - Web developer, designer, writer, and a future firefighter from Ohio.</h3>
-        <h4><a data-toggle="tooltip" title="Twitter" href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a data-toggle="tooltip" title="Tumblr" href="https://jayeglizzy.tumblr.com/"><i class="fab fa-tumblr"></i></a> <a data-toggle="tooltip" title="Instagram" href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a> <a data-toggle="tooltip" title="Medium" href="https://medium.com/@jaye.aesthetic"><i class="fab fa-medium"></i></A> <style>.bmc-button img{height: 24px !important;width: 25px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 25px !important;height:41px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#000000 !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/jameslatten"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px;font-size:18px !important;">Buy me a coffee</span></a></h4>
+        <h4><a data-toggle="tooltip" title="Twitter" href="https://twitter.com/jaye_aesthetic"><i class="fab fa-twitter"></i></a> <a data-toggle="tooltip" title="Tumblr" href="https://jayeglizzy.tumblr.com/"><i class="fab fa-tumblr"></i></a> <a data-toggle="tooltip" title="Instagram" href="https://www.instagram.com/jaye.aesthetic/"><i class="fab fa-instagram"></i></a> <a data-toggle="tooltip" title="Medium" href="https://medium.com/@jaye.aesthetic"><i class="fab fa-medium"></i></A> <style>.bmc-button img{height: 24px !important;width: 25px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 25px !important;height:41px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#ffffff !important;background-color:#000000 !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#ffffff !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://calendly.com/jameslatten/initial-consultation"><img src="" alt="Buy me a coffee"><span style="margin-left:5px;font-size:18px !important;">Schedule an Appointment</span></a></h4>
     </div>
 </div>
 
@@ -131,6 +131,14 @@ $stylesheet = "index";
                 <span>My web development agency based in Ohio<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
+                <h4><a href="https://sitelyftstudios.com/">Jay's Car Cleaning</a></h4>
+                <span>My car cleaning business<br /><span>PHP, JS, HTML, WordPress</span></span>
+            </div>
+            <div class="rightTable table col-lg-4">
+                <h4>Blair Ritchey</h4>
+                <span>Fashion designer based in Lakewood Ohio <br /><span>PHP, JS, HTML, Shopify</span></span>
+            </div>
+            <div class="rightTable table col-lg-4">
                 <h4>Jarvis Invoicing (Coming Soon)</h4>
                 <span>A unique invoicing platform for small businesses!<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
@@ -171,7 +179,7 @@ $stylesheet = "index";
         <h3>Wanna work together on something?</h3>
         <div class="contacts">
             <a data-toggle="tooltip" title="Email"  href="mailto:hello@jameslatten.com?subject=Lets work together"><i class="fas fa-envelope"></i> hello@jameslatten.com</a><br />
-            <a data-toggle="tooltip" title="Phone Number" href="tel:216-889-7822"><i class="fas fa-phone"></i> 1-216-889-7822</a>
+            <a data-toggle="tooltip" title="Phone Number" href="tel:14403705937"><i class="fas fa-phone"></i> 1-440-370-5937</a>
         </div>
     </div>
 </div>
