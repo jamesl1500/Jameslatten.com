@@ -131,11 +131,11 @@ $stylesheet = "index";
                 <span>My web development agency based in Ohio<br /><span>PHP, JS, HTML, Laravel</span></span>
             </div>
             <div class="rightTable table col-lg-4">
-                <h4><a href="https://sitelyftstudios.com/">Jay's Car Cleaning</a></h4>
+                <h4><a href="https://jayscarcleaning.com/">Jay's Car Cleaning</a></h4>
                 <span>My car cleaning business<br /><span>PHP, JS, HTML, WordPress</span></span>
             </div>
             <div class="rightTable table col-lg-4">
-                <h4>Blair Ritchey</h4>
+                <h4><a href="https://blairritchey.com/">Blair Ritchey</a></h4>
                 <span>Fashion designer based in Lakewood Ohio <br /><span>PHP, JS, HTML, Shopify</span></span>
             </div>
             <div class="rightTable table col-lg-4">
